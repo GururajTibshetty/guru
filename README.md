@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Gururaj!
 
-### 💻 A [Your Primary Role, e.g., Full-stack Developer, Data Scientist, Student] focused on [Your main area of interest, e.g., Web Development, Machine Learning, Open Source].
+### 💻 A **Fullstack Developer** focused on [Your main area of interest, e.g., Web Development, Open Source].
 
 ---
 
@@ -8,10 +8,10 @@
 
 - 🔭 I'm currently working on **[Project Name/Topic]** or **learning [New Technology]**.
 - 🌱 I’m currently improving my skills in **[Language/Framework/Skill]**.
-- 👯 I’m looking to collaborate on **[Type of project or open-source contribution]**.
+- 👯 I’m looking to collaborate on **Fullstack projects** or **open-source contributions**.
 - 🤔 I’m looking for help with **[A specific challenge or skill]**.
-- 💬 Ask me about **[Your expertise, e.g., React, Python, UI/UX]**.
-- 📫 How to reach me: **[Your Email Address]** or connect on **[LinkedIn]**.
+- 💬 Ask me about **Fullstack development, JavaScript, or backend technologies**.
+- 📫 How to reach me: **[gururajathibshetty@gmail.com]** or connect on **[LinkedIn]**.
 - ⚡ Fun fact: **[A short, interesting fact about yourself]**.
 
 ---
@@ -21,18 +21,18 @@
 | Category | Skills/Tools |
 | :--- | :--- |
 | **Languages** | `Python` `JavaScript` `TypeScript` `Java` `C++` `HTML` `CSS` |
-| **Frontend** | `React` `Vue.js` `Angular` `Next.js` `Tailwind CSS` `SASS` |
-| **Backend** | `Node.js` `Express` `Django` `Flask` `Spring Boot` |
-| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `SQLite` |
-| **DevOps/Tools** | `Git` `GitHub Actions` `Docker` `Kubernetes` `AWS` `Jira` |
+| **Frontend** | `React`|
+| **Backend** | `Node.js` `Django`|
+| **Databases** | `MongoDB` `MySQL` |
+|
 
 ---
 
 ### 📊 GitHub Stats
 
-You can add dynamic badges for your stats and frequently used languages! Replace `YOUR-USERNAME` with your actual GitHub username.
+You can add dynamic badges for your stats and frequently used languages! Replace `GururajTibshetty` (or your actual username) with your GitHub username.
 
 ```markdown
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME)
+[![Gururaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/YOUR-USERNAME)
