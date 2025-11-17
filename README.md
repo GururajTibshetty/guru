@@ -20,6 +20,10 @@
 ... (Rest of the previous content)
 
 ---
+# Hi there 👋, I'm Gururaj!
+... (Rest of the previous content)
+
+---
 
 ### Tech Stack & Tools
 
@@ -38,13 +42,27 @@
 | :--- | :--- |
 | **React** | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) |
 | **Next.js** | [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) |
+| **Tailwind CSS** | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) |
 
 #### ⚙️ Backend & Runtime
 
 | Tool | Badge |
 | :--- | :--- |
 | **Node.js** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
+| **Express** | [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) |
 | **Django** | [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) |
+
+#### 💾 Databases & DevOps
+
+| Tool | Badge |
+| :--- | :--- |
+| **PostgreSQL** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) |
+| **MongoDB** | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
+| **Git** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
+| **Docker** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) |
+
+---
+... (Remaining content like GitHub Stats and Connect with Me)elds.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) |
 
 #### 💾 Databases & DevOps
 
