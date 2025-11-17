@@ -16,15 +16,46 @@
 
 ---
 
+# Hi there 👋, I'm Gururaj!
+... (Rest of the previous content)
+
+---
+
 ### Tech Stack & Tools
 
-| Category | Skills/Tools |
+#### 🚀 Primary Languages
+
+| Language | Badge |
 | :--- | :--- |
-| **Languages** | `Python` `JavaScript` `TypeScript` `Java` `C++` `HTML` `CSS` |
-| **Frontend** | `React`|
-| **Backend** | `Node.js` `Django`|
-| **Databases** | `MongoDB` `MySQL` |
-|
+| **JavaScript** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |
+| **Python** | [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) |
+| **HTML5** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) |
+| **CSS3** | [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/CSS) |
+
+#### 🌐 Frontend Frameworks
+
+| Framework | Badge |
+| :--- | :--- |
+| **React** | [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/) |
+| **Next.js** | [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/) |
+
+#### ⚙️ Backend & Runtime
+
+| Tool | Badge |
+| :--- | :--- |
+| **Node.js** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/) |
+| **Django** | [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) |
+
+#### 💾 Databases & DevOps
+
+| Tool | Badge |
+| :--- | :--- |
+| **SQL** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) |
+| **MongoDB** | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) |
+| **Git** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) |
+
+---
+... (Remaining content like GitHub Stats and Connect with Me)
 
 ---
 
