@@ -19,18 +19,6 @@
 # Hi there 👋, I'm Gururaj!
 ... (Rest of the previous content)
 
----
-# Hi there 👋, I'm Gururaj!
-... (Rest of the previous content)
-
----
-
-### Tech Stack & Tools
-
-# Hi there 👋, I'm Gururaj!
-... (Rest of the previous content)
-
----
 
 ### Tech Stack & Tools
 
